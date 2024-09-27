@@ -1,0 +1,91 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "image": "/public/img/photo.webp",
+        "name": "Lanne Graham",
+        "username": "Bret",
+        "email": "lanne@4.gmail.com",
+        "title": "Work in Company like C# developer",
+        "activities": "Developer"
+      },
+      {
+        "id": 2,
+        "image": "/public/img/photo.webp",
+        "name": "David Actinson",
+        "username": "Dark",
+        "email": "davidactin@5.gmail.com",
+        "title": "Creating Videos And Texts for Social media",
+        "activities": "ReelsMaker"
+      },
+      {
+        "id": 3,
+        "image": "/public/img/photo.webp",
+        "name": "Emily Clara",
+        "username": "Ema",
+        "email": "emilycla@1.gmail.com",
+        "title": "Working in product company like HR",
+        "activities": "HR"
+      },
+      {
+        "id": 4,
+        "image": "/public/img/photo.webp",
+        "name": "Omar Ali",
+        "username": "concard",
+        "email": "omarali@99.gmail.com",
+        "title": "Professional Freelancer Back-end developer",
+        "activities": "Developer"
+      },
+      {
+        "id": 5,
+        "image": "/public/img/photo.webp",
+        "name": "jazz Sandman",
+        "username": "Sandman",
+        "email": "jazzSand@77.gmail.com",
+        "title": "Freelancer Photographer",
+        "activities": "Photographer"
+      },
+      {
+        "id": 6,
+        "image": "/public/img/photo.webp",
+        "name": "Price Sandman",
+        "username": "Sandman",
+        "email": "priceSand@77.gmail.com",
+        "title": "Freelancer dveloper",
+        "activities": "Developerr"
+      }
+    ],
+    "activities": [
+      {
+        "id": 1,
+        "img": "/public/img/reels.webp",
+        "title": "Creating Videos And Texts for Social media"
+      },
+      {
+        "id": 2,
+        "img": "/public/img/photograp.jfif",
+        "title": "Freelancer Photographer"
+      },
+      {
+        "id": 3,
+        "img": "/public/img/backend.avif",
+        "title": "Professional Freelancer Back-end developer"
+      },
+      {
+        "id": 4,
+        "img": "/public/img/cdev.jpg",
+        "title": "Work in Company like C# developer"
+      },
+      {
+        "id": 5,
+        "img": "/public/img/HR.jpg",
+        "title": "Working in product company like HR"
+      },
+      {
+        "id": 6,
+        "img": "/public/img/native.webp",
+        "title": "Working in product company like React-native Developer"
+      }
+    ]
+  }
+  

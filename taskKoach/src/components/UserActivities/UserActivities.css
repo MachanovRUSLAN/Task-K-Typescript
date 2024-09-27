@@ -1,0 +1,47 @@
+.activ-profile {
+    width: 80%;
+    background-color: rgba(64, 85, 63, 0.419);
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px 0;
+    margin-top: 10px;
+  }
+  
+  .activ-card {
+    max-width: 400px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgb(86, 99, 91), rgb(17, 17, 30));
+    border-radius: 1px solid red;
+    border-radius: 10px;
+    padding: 10px 0;
+    transition: 0.5s ease;
+  }
+  .activ-card:hover {
+    transform: scale(1.05);
+  }
+  .activ-card p {
+    font-weight: 600;
+    margin: 10px;
+    color: #fff;
+  }
+  .load {
+    width: 100px;
+    margin: auto;
+    padding: 10px;
+  }
+  .error {
+    width: 100px;
+    display: flex;
+    margin: auto;
+  }
+  
+  @media (max-width: 992px) {
+    .activ-profile {
+      padding: 10px 20px;
+    }
+  }
+  

@@ -1,0 +1,30 @@
+.navbar {
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px solid black;
+}
+.navbar div {
+  display: flex;
+}
+.navbar div a {
+  text-decoration: none;
+  margin: 10px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 500;
+  background-color: rgb(31, 151, 182);
+  padding: 10px;
+  border: 1px solid rgb(144, 130, 130);
+  border-radius: 10px;
+  color: #fff;
+  transition: 0.3s;
+}
+.navbar div a:hover {
+  background-color: #fff;
+  color: black;
+}
